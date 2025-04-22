@@ -8,6 +8,7 @@
 
 В ноутбуке содержится:
 - EDA
+- Feature Engeneering
 - Подбор гиперпараметров
 - Feature selection при помощи алгоритма Backward Selection
 - Организация ансамбля
